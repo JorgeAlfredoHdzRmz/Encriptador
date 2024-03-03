@@ -1,0 +1,72 @@
+body {
+    background-color: #F3F5FC;
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    /* background-color: red; */
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+#logo-Alura {
+    width: 50px;
+    height: auto;
+}
+
+section {
+    padding: 20px;
+}
+
+#Encriptar{
+    text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+    background-color: #0A3871;
+    border-radius: 24px;
+    border: solid 1px #0A3871;
+}
+#Desencriptar{
+    text-align: center; color: #0A3871; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+    background-color: #D8DFE8;
+    border-radius: 24px;
+    border: solid 1px #0A3871;
+}
+
+textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#warning {
+    font-size: 0.8rem;
+}
+
+.buttons {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#textoFinal {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#copy {
+    text-align: center;
+    color: #0A3871;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+    background-color: white;
+    border-radius: 24px;
+    border: solid 1px #0A3871;
+    /* display: block; */
+    margin: 0 auto;
+}
