@@ -11,7 +11,6 @@ header {
     text-align: center;
     display: flex;
     justify-content: flex-start;
-
 }
 
 #logo-Alura {
@@ -24,13 +23,23 @@ section {
 }
 
 #Encriptar{
-    text-align: center; color: white; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
     background-color: #0A3871;
     border-radius: 24px;
     border: solid 1px #0A3871;
 }
 #Desencriptar{
-    text-align: center; color: #0A3871; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word;
+    text-align: center;
+    color: #0A3871;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
     background-color: #D8DFE8;
     border-radius: 24px;
     border: solid 1px #0A3871;
